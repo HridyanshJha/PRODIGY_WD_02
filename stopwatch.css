@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 100px;
+}
+
+.stopwatch {
+    margin: 200px ;
+    padding: right 5px; left: 10px ;
+    background-color: crimson
+}
+
+#display {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+button {
+    font-size: 1em;
+    padding: 10px 20px;
+    margin:  10px;
+    cursor: pointer;
+}
